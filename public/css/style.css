@@ -95,3 +95,16 @@ body{
     opacity: 0.2;
     background-color: white;
 }
+
+/* show img */
+.show-img{
+    height: 30vh;
+}
+
+.btns{
+    display: flex;
+}
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
+}
